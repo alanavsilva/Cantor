@@ -1,20 +1,20 @@
 body {
-background: linear-gradient(to right, #4facfe, #00f2fe);
-font-family: Arial, sans-serif;
+background: linear-gradient(to right, #ffd489, #ffda60);
+font-family: 'Times New Roman', Times, serif;
 text-align: center;
 margin: 0;
 padding: 20px;
 }
 h1 {
 color: white;
-background-color: #ff6b6b;
+background-color: #41d379;
 padding: 15px;
 border-radius: 10px;
 text-shadow: 2px 2px 5px black;
 }
 p {
 font-size: 18px;
-color: #333;
+color: #2fa05a;
 background-color: white;
 display: inline-block;
 padding: 10px;
@@ -24,8 +24,8 @@ a {
 display: inline-block;
 margin-top: 15px;
 padding: 10px 15px;
-background-color: #ffcc00;
-color: black;
+background-color: #2fa05a;
+color: rgb(255, 255, 255);
 text-decoration: none;
 border-radius: 8px;
 font-weight: bold;
@@ -41,6 +41,7 @@ padding: 10px;
 border-radius: 8px;
 }
 img {
+height: 300px;
 margin-top: 20px;
 border-radius: 15px;
 box-shadow: 3px 3px 10px rgba(0,0,0,0.4);
